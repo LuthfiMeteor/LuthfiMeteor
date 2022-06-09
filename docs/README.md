@@ -1,88 +1,74 @@
-[![Valor Bot](images/logo.png)](https://github.com/DineshValor/valor)
-<br>
-<br>
-[![Valor Bot Status](https://img.shields.io/badge/Bot_Status-Maintained-Green?logo=statuspal&logoColor=green)](https://github.com/DineshValor/valor)
-[![DineshValor](https://img.shields.io/badge/Maintainer-DineshValor-blue?logo=powershell)](https://github.com/DineshValor)
-
-#### This is not an officially supported WhatsApp product
-
-## Introduction
-Valor Bot is a suite of open source software for WhatsApp Application based on Baileys WebSocket API.
-> WhatsApp Supported Version: 2.22.8.7
-
-_Some highlight features_:
-
-- **Downloader**: Download Audio/Video from YouTube, TikTok, Instagram, Facebook, etc
-- **Sticker Creator**: Create Sticker from Image/Video/Text
-- **Tag All**: Tag Everyone at once, no more headache to tag each single
-- **Game**: Games in whatsapp such as RPG Games, Leaderboard, Inventory, Math Quiz, etc
-- **Internet Search**: Google Text/Image, Facebook, Pinterest, Wikipedia
-- **AFK**: Away From Keyboard in group
-- **Broadcast**: Broadcast message to all Groups & everyone
-
-**Screenshots**
-
-| [![Sample-1](images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg) |
-|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Sample-1                                                                                                           | Sample-2                                                                                                           | Sample-3                                                                                                           | Sample-4                                                                                                           |
-
-## Downloads
-
-[Github](https://github.com/DineshValor/valor/) is the only source where you can get official Valor Bot information and downloads.
-
-[![Valor Bot Stable Version](https://img.shields.io/badge/Valor_Bot-v2.22.8.7-blue)](https://github.com/DineshValor/valor/releases/download/v2.22.8.7/Valor_Bot-v2.22.8.7.zip)
-[![Valor Bot Beta Version](https://img.shields.io/badge/Valor_Bot-Beta-red)](https://github.com/DineshValor/valor/archive/refs/heads/bot.zip)
-
-## Useful Links
-- [Installation Instruction](https://dineshvalor.github.io/valor/install)
-- [Frequently Asked Questions](https://dineshvalor.github.io/valor/faq)
-- [Troubleshoot](https://dineshvalor.github.io/puppeteer/troubleshooting)
-
-### Invite/Add Bot in your Group?
-~~1. Join [Valor Bot Invite](https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI) group.~~
-
-~~2. Type and send as shown below message in “Valor Bot Invite” group.~~ <br>
-~~#join <group_link>~~
-
-- ~~Example~~ <br>
-~~#join https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI~~
-> ~~(replace `‘https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI’` with your group link)~~
-
-> Note: **“Bot Invite In Group” Discontinued From 10th March 2022**
-
-### Test & Report Bug/Error/Issue or Feature Request?
-
-Test and Report Bug/Error/Issue or Feature Request on official Valor Bot repository under Issue section.
-
-[![Bot Test](https://img.shields.io/badge/WhatsApp-Bot_Test-darkgreen?logo=whatsapp)](https://chat.whatsapp.com/BqNITpkNqKuGkyMzGleZtI)
-[![Bug/Error/Issue Report](https://img.shields.io/badge/GitHub-Report-darkgreen?logo=github)](https://github.com/DineshValor/valor/issues)
-
-## License
-
-    Valor-Bot, including all git submodules are free software:
-    you can redistribute it and/or modify it under the terms of the
-    GNU General Public License as published by the Free Software Foundation,
-    either version 3 of the License, or (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-## Thanks To
 
-[![DineshValor](https://github.com/DineshValor.png)](https://github.com/DineshValor) | [![Nurutomo](https://github.com/Nurutomo.png)](https://github.com/Nurutomo) | [![BochilGaming](https://github.com/BochilGaming.png)](https://github.com/BochilGaming) | [![X-Team](images/xlogo.png)](https://api.xteam.xyz/) 
-----|----|----|----
-[DineshValor](https://github.com/DineshValor) | [Nurutomo](https://github.com/Nurutomo) | [BochilGaming](https://github.com/BochilGaming) | [X-Team](https://api.xteam.xyz/)
-Valor-Bot Author | Script Writer | Script Editor | Powered by X-Team
+<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
+<p align="center">
+  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
+</p>
 
-## Support Project
+<p align="center">
 
-[![UPI PAY](images/upi-qrcode.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [![PayPal](images/paypal.png)](https://www.paypal.me/DineshValor)
-----|----
-[UPI PAY](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/upi-qrcode.jpg) | [PayPal](https://www.paypal.me/DineshValor)
-🇮🇳 Domestic Support | 🌐 Global Support
+- 👼 My name is Fatih Arridho
+- 🔭 I am anime lovers !
+
+</p>
+
+------
+### Connect with me ☎️
+<p align="center">
+  <a href="https://instagram.com/fatih_arridho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/message/KX5ZGPPH2FMEC1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/fatiharridho.id"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/icebear_id"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/badge/YouTube-fatih id-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ" /><br>
+  <a name=FatihArridho&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/fatiharridho"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
+</p>
+
+### Mobile Legends 🎮
+<p align="center">
+  <img src="https://d1x91p7vw3vuq8.cloudfront.net/image_upload/2020105/ax268kdhrxb3cxvfc8kiym.png" />
+</p>
+
+------
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/nf3xjkwb8gsuq2b0t8bimjt58" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+
+### Github Stats 🚀
+
+<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api?username=fatiharridho&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiharridho&theme=radical&layout=compact"></a></p> 
+
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=fatiharridho.github.io&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=fatiharridho)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/fatiharridho)
+
+</details> 
