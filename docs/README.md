@@ -31,7 +31,7 @@
 ### Spotify Playing 🎧
 
 <p align="center">
-  <a href="https://open.spotify.com/track/13IZnB0x0yd3zUGSRuqTN5?si=e994959dfadf4a16&nd=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/user/sedxr5yrdpk77rfdfnm8629bj" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
