@@ -8,7 +8,6 @@
 
 <p align="center">
 
-- 👼 My name is Luthfi Novalino Pratama
 - 🔭 I am Beginner !
 
 </p>
